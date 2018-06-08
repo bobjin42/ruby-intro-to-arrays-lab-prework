@@ -1,2 +1,2 @@
 def 
-  my
+  my_new_array = []
