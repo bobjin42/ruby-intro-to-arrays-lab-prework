@@ -18,3 +18,5 @@ def last_element(array)
   my_last_element = array.last
 end
 
+def first_element_with_array_methods(array)
+  
