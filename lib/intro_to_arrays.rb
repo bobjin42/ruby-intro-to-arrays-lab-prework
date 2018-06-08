@@ -10,4 +10,5 @@ def first_element(array)
   my_first_element = array.first
 end
 
-def 
+def third_element(array)
+  
